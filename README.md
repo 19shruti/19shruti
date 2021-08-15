@@ -14,7 +14,7 @@
 ![Your Repository's Stats](https://contrib.rocks/image?repo=19shruti/Python) -->
 ##  Random Jokes To Make You Smile ☺
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-##  Profile View Counter
+<!-- ##  Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=19shruti)
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/19shruti/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/19shruti/Python) -->
