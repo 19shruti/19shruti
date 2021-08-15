@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is SHRUTI RAJ 
+### Hi there 👋 - I'm SHRUTI RAJ !
   ### Enjoy Coding with Music  and a Cup of Filter Coffee☕.
 
 - 🔭 I’m currently working on my skills and learning daily . 
