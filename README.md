@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **19shruti/19shruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=19shruti)
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/19shruti/Python)
--->
