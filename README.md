@@ -11,8 +11,8 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=19shruti&theme=blue-green)
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=19shruti/Python) -->
-##  Random Joke Generator
-![Jokes Card](https://readme-jokes.vercel.app/api)
+##  Random Jokes To Make You Smile ☺
+![Jokes Card](https://readme-jokes.vercel.app/api&theme=blue-green)
 ##  Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=19shruti)
 ### Repository View Counter - HITS
