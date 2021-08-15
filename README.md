@@ -1,9 +1,10 @@
 ### Hi there 👋 My Name is SHRUTI RAJ 
+  ### Enjoy Coding with Music  and a Cup of Filter Coffee☕.
 
 - 🔭 I’m currently working on my skills and learning daily . 
-- 🌱 I’m currently learning full-stack
-- 👯 I’m looking to collaborate on front-end projects
-- 💬 Ask me about coding and life
+- 🌱 I’m currently learning full-stack Development.
+- ✍ Writing tech blog posts over Internet. 
+- 💬 Ask me about coding and life.
 - 📫 Linkedin: https://www.linkedin.com/in/shruti-raj-75650b190/
 ##  GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=19shruti&show_icons=true&theme=blue-green)
